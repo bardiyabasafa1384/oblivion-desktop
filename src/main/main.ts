@@ -11,7 +11,7 @@ import {
     globalShortcut,
     BrowserWindowConstructorOptions,
     Event,
-    NativeImage,
+    ,
     MenuItemConstructorOptions
 } from 'electron';
 import path from 'path';
